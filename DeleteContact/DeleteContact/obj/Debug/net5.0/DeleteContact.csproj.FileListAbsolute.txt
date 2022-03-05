@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Desktop\.net\DeleteContact\DeleteContact\obj\Debug\net5.0\DeleteContact.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\DeleteContact\DeleteContact\obj\Debug\net5.0\DeleteContact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\.net\DeleteContact\DeleteContact\obj\Debug\net5.0\DeleteContact.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\DeleteContact\DeleteContact\obj\Debug\net5.0\DeleteContact.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\.net\DeleteContact\DeleteContact\obj\Debug\net5.0\DeleteContact.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\DeleteContact\DeleteContact\bin\Debug\net5.0\DeleteContact.exe
+C:\Users\ASUS\OneDrive\Desktop\.net\DeleteContact\DeleteContact\bin\Debug\net5.0\DeleteContact.deps.json
+C:\Users\ASUS\OneDrive\Desktop\.net\DeleteContact\DeleteContact\bin\Debug\net5.0\DeleteContact.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\.net\DeleteContact\DeleteContact\bin\Debug\net5.0\DeleteContact.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\.net\DeleteContact\DeleteContact\bin\Debug\net5.0\DeleteContact.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\DeleteContact\DeleteContact\bin\Debug\net5.0\DeleteContact.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\DeleteContact\DeleteContact\obj\Debug\net5.0\DeleteContact.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\DeleteContact\DeleteContact\obj\Debug\net5.0\refint\DeleteContact.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\DeleteContact\DeleteContact\obj\Debug\net5.0\DeleteContact.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\DeleteContact\DeleteContact\obj\Debug\net5.0\DeleteContact.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\DeleteContact\DeleteContact\obj\Debug\net5.0\ref\DeleteContact.dll

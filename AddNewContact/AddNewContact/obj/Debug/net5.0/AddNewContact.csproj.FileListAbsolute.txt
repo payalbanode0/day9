@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Desktop\.net\AddNewContact\AddNewContact\obj\Debug\net5.0\AddNewContact.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\AddNewContact\AddNewContact\obj\Debug\net5.0\AddNewContact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\.net\AddNewContact\AddNewContact\obj\Debug\net5.0\AddNewContact.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\AddNewContact\AddNewContact\obj\Debug\net5.0\AddNewContact.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\.net\AddNewContact\AddNewContact\obj\Debug\net5.0\AddNewContact.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\AddNewContact\AddNewContact\bin\Debug\net5.0\AddNewContact.exe
+C:\Users\ASUS\OneDrive\Desktop\.net\AddNewContact\AddNewContact\bin\Debug\net5.0\AddNewContact.deps.json
+C:\Users\ASUS\OneDrive\Desktop\.net\AddNewContact\AddNewContact\bin\Debug\net5.0\AddNewContact.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\.net\AddNewContact\AddNewContact\bin\Debug\net5.0\AddNewContact.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\.net\AddNewContact\AddNewContact\bin\Debug\net5.0\AddNewContact.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\AddNewContact\AddNewContact\bin\Debug\net5.0\AddNewContact.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\AddNewContact\AddNewContact\obj\Debug\net5.0\AddNewContact.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\AddNewContact\AddNewContact\obj\Debug\net5.0\refint\AddNewContact.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\AddNewContact\AddNewContact\obj\Debug\net5.0\AddNewContact.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\AddNewContact\AddNewContact\obj\Debug\net5.0\AddNewContact.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\AddNewContact\AddNewContact\obj\Debug\net5.0\ref\AddNewContact.dll

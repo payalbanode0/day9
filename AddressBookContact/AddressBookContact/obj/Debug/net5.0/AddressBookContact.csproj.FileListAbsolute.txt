@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Desktop\.net\AddressBookContact\AddressBookContact\obj\Debug\net5.0\AddressBookContact.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\AddressBookContact\AddressBookContact\obj\Debug\net5.0\AddressBookContact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\.net\AddressBookContact\AddressBookContact\obj\Debug\net5.0\AddressBookContact.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\AddressBookContact\AddressBookContact\obj\Debug\net5.0\AddressBookContact.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\.net\AddressBookContact\AddressBookContact\obj\Debug\net5.0\AddressBookContact.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\AddressBookContact\AddressBookContact\bin\Debug\net5.0\AddressBookContact.exe
+C:\Users\ASUS\OneDrive\Desktop\.net\AddressBookContact\AddressBookContact\bin\Debug\net5.0\AddressBookContact.deps.json
+C:\Users\ASUS\OneDrive\Desktop\.net\AddressBookContact\AddressBookContact\bin\Debug\net5.0\AddressBookContact.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\.net\AddressBookContact\AddressBookContact\bin\Debug\net5.0\AddressBookContact.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\.net\AddressBookContact\AddressBookContact\bin\Debug\net5.0\AddressBookContact.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\AddressBookContact\AddressBookContact\bin\Debug\net5.0\AddressBookContact.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\AddressBookContact\AddressBookContact\obj\Debug\net5.0\AddressBookContact.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\AddressBookContact\AddressBookContact\obj\Debug\net5.0\refint\AddressBookContact.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\AddressBookContact\AddressBookContact\obj\Debug\net5.0\AddressBookContact.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\AddressBookContact\AddressBookContact\obj\Debug\net5.0\AddressBookContact.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\AddressBookContact\AddressBookContact\obj\Debug\net5.0\ref\AddressBookContact.dll

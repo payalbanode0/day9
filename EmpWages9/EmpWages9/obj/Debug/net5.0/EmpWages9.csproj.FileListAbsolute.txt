@@ -1,0 +1,32 @@
+C:\Users\ASUS\OneDrive\Desktop\.net\EmpWages9\EmpWages9\obj\Debug\net5.0\EmpWages9.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\EmpWages9\EmpWages9\obj\Debug\net5.0\EmpWages9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\.net\EmpWages9\EmpWages9\obj\Debug\net5.0\EmpWages9.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\EmpWages9\EmpWages9\obj\Debug\net5.0\EmpWages9.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\.net\EmpWages9\EmpWages9\obj\Debug\net5.0\EmpWages9.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\EmpWages9\EmpWages9\bin\Debug\net5.0\EmpWages9.exe
+C:\Users\ASUS\OneDrive\Desktop\.net\EmpWages9\EmpWages9\bin\Debug\net5.0\EmpWages9.deps.json
+C:\Users\ASUS\OneDrive\Desktop\.net\EmpWages9\EmpWages9\bin\Debug\net5.0\EmpWages9.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\.net\EmpWages9\EmpWages9\bin\Debug\net5.0\EmpWages9.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\.net\EmpWages9\EmpWages9\bin\Debug\net5.0\EmpWages9.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\EmpWages9\EmpWages9\bin\Debug\net5.0\EmpWages9.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\EmpWages9\EmpWages9\obj\Debug\net5.0\EmpWages9.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\EmpWages9\EmpWages9\obj\Debug\net5.0\refint\EmpWages9.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\EmpWages9\EmpWages9\obj\Debug\net5.0\EmpWages9.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\EmpWages9\EmpWages9\obj\Debug\net5.0\EmpWages9.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\EmpWages9\EmpWages9\obj\Debug\net5.0\ref\EmpWages9.dll
+C:\Users\ASUS\Desktop\address book day9\EmpWages9\EmpWages9\bin\Debug\net5.0\EmpWages9.exe
+C:\Users\ASUS\Desktop\address book day9\EmpWages9\EmpWages9\bin\Debug\net5.0\EmpWages9.deps.json
+C:\Users\ASUS\Desktop\address book day9\EmpWages9\EmpWages9\bin\Debug\net5.0\EmpWages9.runtimeconfig.json
+C:\Users\ASUS\Desktop\address book day9\EmpWages9\EmpWages9\bin\Debug\net5.0\EmpWages9.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\address book day9\EmpWages9\EmpWages9\bin\Debug\net5.0\EmpWages9.dll
+C:\Users\ASUS\Desktop\address book day9\EmpWages9\EmpWages9\bin\Debug\net5.0\EmpWages9.pdb
+C:\Users\ASUS\Desktop\address book day9\EmpWages9\EmpWages9\obj\Debug\net5.0\EmpWages9.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\address book day9\EmpWages9\EmpWages9\obj\Debug\net5.0\EmpWages9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\address book day9\EmpWages9\EmpWages9\obj\Debug\net5.0\EmpWages9.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\address book day9\EmpWages9\EmpWages9\obj\Debug\net5.0\EmpWages9.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\address book day9\EmpWages9\EmpWages9\obj\Debug\net5.0\EmpWages9.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\address book day9\EmpWages9\EmpWages9\obj\Debug\net5.0\EmpWages9.dll
+C:\Users\ASUS\Desktop\address book day9\EmpWages9\EmpWages9\obj\Debug\net5.0\refint\EmpWages9.dll
+C:\Users\ASUS\Desktop\address book day9\EmpWages9\EmpWages9\obj\Debug\net5.0\EmpWages9.pdb
+C:\Users\ASUS\Desktop\address book day9\EmpWages9\EmpWages9\obj\Debug\net5.0\EmpWages9.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\address book day9\EmpWages9\EmpWages9\obj\Debug\net5.0\ref\EmpWages9.dll
